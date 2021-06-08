@@ -1,3 +1,2 @@
-# alx-zero_day
-#This is my second Git program#
-# alx-zero_day
+**Working on Zero Day**
+*As a software engineer, Zero Day is a terminology we ought to know about*
